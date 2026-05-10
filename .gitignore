@@ -1,0 +1,15 @@
+logs/
+*.backup.*
+*.broken.*
+*.old
+*.log
+*.bak
+*.tmp
+.env
+*.env
+*.secret
+*.key
+*.pem
+*.crt
+*.token
+.DS_Store
