@@ -1,2 +1,3 @@
 # linux-admin
-Linux Administration Menu
+
+This repository is intentionally empty.
